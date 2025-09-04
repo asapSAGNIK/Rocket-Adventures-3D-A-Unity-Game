@@ -4,6 +4,10 @@ A 3D rocket navigation game built with Unity and C#. Pilot your rocket, avoid ob
 
 ---
 
+
+https://github.com/user-attachments/assets/470b2074-c52a-4e56-bd3e-f61f16421de5
+
+
 ## 📝 Game Overview
 
 In this game, you control a rocket and must navigate through various obstacles to reach the landing pad. Each level presents new challenges and layouts. Use your thrusters wisely to avoid crashing and reach the finish!
